@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laughtriver
-- 👀 I’m interested in Python,HTML,Javascript,#C,etc
+- 👀 I’m interested in Python,HTML,Javascript,C#,etc
 - 🌱 I’m currently learning Python(Django)
 - 💞️ I’m looking to collaborate on UniPro
 - 📫 How to reach me laughtriver@gmail.com
